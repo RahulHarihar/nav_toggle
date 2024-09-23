@@ -6,4 +6,4 @@ a "cross" state upon clicking, with smooth animations powered by GSAP.
 
 ## Live link
 
-![Hamburger Animation][https://nav-toggle.vercel.app/](#).
+![Hamburger Animation][https://nav-toggle.vercel.app/].
